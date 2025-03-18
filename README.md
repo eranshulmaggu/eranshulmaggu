@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anshul Maggu
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning  MySql, Python, PowerBi, Tableu, Excel
