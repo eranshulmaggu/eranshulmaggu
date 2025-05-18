@@ -15,11 +15,8 @@ Hi there! I'm **Anshul Maggu**, a passionate and data-driven **HR Analyst** with
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 
-
 # GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eranshulmaggu&show_icons=true&theme=tokyonight)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eranshulmaggu&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eranshulmaggu&layout=compact&theme=tokyonight)
